@@ -1,0 +1,10 @@
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\UnitTestReceipe.dll.config
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\UnitTestReceipe.dll
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\UnitTestReceipe.pdb
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\Receipe.exe
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\Receipe.pdb
+F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestRecipe.csprojResolveAssemblyReference.cache
+F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestReceipe.dll
+F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestReceipe.pdb

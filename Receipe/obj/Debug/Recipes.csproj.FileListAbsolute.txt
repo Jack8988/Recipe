@@ -1,0 +1,5 @@
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.exe.config
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.exe
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.pdb
+F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.exe
+F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.pdb

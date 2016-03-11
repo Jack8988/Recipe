@@ -1,0 +1,17 @@
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\bin\Debug\Receipe.exe.config
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\bin\Debug\Receipe.exe
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\bin\Debug\Receipe.pdb
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\obj\Debug\Receipe.csprojResolveAssemblyReference.cache
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\obj\Debug\Receipe.exe
+c:\users\grant\documents\visual studio 2015\Projects\Receipe\Receipe\obj\Debug\Receipe.pdb
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.exe.config
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.exe
+F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.pdb
+F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.exe
+F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.pdb
+F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.csprojResolveAssemblyReference.cache
+C:\Project\c#\Receipe\Receipe\bin\Debug\Receipe.exe.config
+C:\Project\c#\Receipe\Receipe\bin\Debug\Receipe.exe
+C:\Project\c#\Receipe\Receipe\bin\Debug\Receipe.pdb
+C:\Project\c#\Receipe\Receipe\obj\Debug\Receipe.exe
+C:\Project\c#\Receipe\Receipe\obj\Debug\Receipe.pdb
