@@ -19,7 +19,7 @@ namespace UnitTestRecipe
             //Arrange
             var recipe1 = new Recipe
                       (
-                       "Recipe 1",
+                       "Recipe test 1",
                         new List<IIngredient>()
                         {
                           new OrganicGarlic() {Quantity = 1.0m},

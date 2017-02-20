@@ -3,3 +3,9 @@ F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.exe
 F:\study\C#\Receipe\Receipe\bin\Debug\Receipe.pdb
 F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.exe
 F:\study\C#\Receipe\Receipe\obj\Debug\Receipe.pdb
+C:\GitHub\Receipt\Receipe\bin\Debug\Receipe.exe.config
+C:\GitHub\Receipt\Receipe\obj\Debug\Receipe.exe
+C:\GitHub\Receipt\Receipe\obj\Debug\Receipe.pdb
+C:\GitHub\Receipt\Receipe\bin\Debug\Receipe.exe
+C:\GitHub\Receipt\Receipe\bin\Debug\Receipe.pdb
+C:\GitHub\Receipt\Receipe\obj\Debug\Recipes.csprojResolveAssemblyReference.cache

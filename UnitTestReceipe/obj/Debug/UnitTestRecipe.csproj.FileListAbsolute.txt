@@ -8,3 +8,13 @@ F:\study\C#\Receipe\UnitTestReceipe\bin\Debug\Microsoft.VisualStudio.QualityTool
 F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestRecipe.csprojResolveAssemblyReference.cache
 F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestReceipe.dll
 F:\study\C#\Receipe\UnitTestReceipe\obj\Debug\UnitTestReceipe.pdb
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\UnitTestReceipe.dll.config
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\UnitTestReceipe.dll
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\UnitTestReceipe.pdb
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\Receipe.exe
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\Receipe.pdb
+C:\GitHub\Receipt\UnitTestReceipe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHub\Receipt\UnitTestReceipe\obj\Debug\UnitTestRecipe.csprojResolveAssemblyReference.cache
+C:\GitHub\Receipt\UnitTestReceipe\obj\Debug\UnitTestReceipe.dll
+C:\GitHub\Receipt\UnitTestReceipe\obj\Debug\UnitTestReceipe.pdb
